@@ -69,4 +69,7 @@ print(30*"═")
 <br>Commit dan push repository ke github
 
 # FLowchart
-![gambar](ss6.png)
+![gambar](ss6.jpg)
+
+# Penjelasan
+
