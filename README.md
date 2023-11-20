@@ -56,3 +56,17 @@ print(30*"═")
 
 # Hasil output
 ![gambar](ss5.png)
+
+# Praktikum 5
+![gambar](soal6.png)
+
+# soal praktikum 5
+<br>Buat program sederhana yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan :
+<br>Program dibuat dengan menggunakan Dictionary
+<br>Tampilkan menu pilihan: (Tambah Data, Ubah Data, Hapus Data, Tampilkan Data, Cari Data)
+<br>Nilai Akhir diambil dari perhitungan 3 komponen nilai (tugas: 30%, uts: 35%, uas: 35%)
+<br>Buat flowchart dan penjelasan programnya pada README.md.
+<br>Commit dan push repository ke github
+
+# FLowchart
+![gambar](ss6.png)
