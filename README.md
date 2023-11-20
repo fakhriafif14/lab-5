@@ -55,3 +55,4 @@ print(30*"═")
  ```
 
 # Hasil output
+![gambar](ss5.png)
